@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@codewars/test-compat": "^1.1.0"
+  }
+}
